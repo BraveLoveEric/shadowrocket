@@ -11,6 +11,7 @@
 直连：局域网请求 代理：其余所有请求 包含广告过滤
 
 3-下载地址 shadowrocket
+
 Quan https://raw.githubusercontent.com/wq22304/shadowrocket/master/quan.conf
 
 shadowrocket https://raw.githubusercontent.com/wq22304/shadowrocket/master/shadowrockrt.conf
